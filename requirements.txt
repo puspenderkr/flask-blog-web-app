@@ -3,3 +3,5 @@ Flask-SQLAlchemy
 flask-login
 psycogp2
 gunicorn
+psycopg2-binary
+psycopg2
