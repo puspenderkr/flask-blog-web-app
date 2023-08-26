@@ -3,4 +3,3 @@ Flask-SQLAlchemy
 flask-login
 psycogp2
 gunicorn
-psycopg2
